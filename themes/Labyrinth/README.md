@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2026 RobfinVR
+SPDX-FileCopyrightText: 2026 robfin
 
 SPDX-License-Identifier: CC0-1.0
 -->
@@ -13,7 +13,7 @@ A light theme for Prism Launcher inspired by the Modrinth app, featuring clean w
 
 ## License
 ```
-SPDX-FileCopyrightText: 2026 RobfinVR
+SPDX-FileCopyrightText: 2026 robfin
 
 SPDX-License-Identifier: MIT
 ```
